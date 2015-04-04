@@ -1,8 +1,0 @@
-DFToolBox
-~~~~~~~~~
-
-- bookmark loading/saving
-- fixed mp3 and wav playback, now using Windows functions instead of
-  SDL
-
-# EOF #
